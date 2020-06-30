@@ -1,5 +1,6 @@
 module.exports = {
   outputDir: "docs",
+  publicPath: "/pwa-test",
   // ...other vue-cli plugin options...
   pwa: {
     name: "My App",
